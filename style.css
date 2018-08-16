@@ -1,0 +1,20 @@
+*{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1{
+  font-size: 50px;
+  color: white;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.fakelink{
+  color: Aquamarine;
+  font-size: 16px;
+}
